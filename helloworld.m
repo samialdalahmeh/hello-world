@@ -1,3 +1,5 @@
-% Hello worlkd testing of Git
+% Hello world testing of Git
 
 disp('Hello World!') % display text
+
+disp('Hello Again')
